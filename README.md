@@ -1,4 +1,4 @@
-jigebar.github.io
-=================
+jigebar
+=======
 
-丽江肌哥碟Bar
+肌哥碟Bar
